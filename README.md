@@ -1,6 +1,5 @@
 # Craigslist-Search-Module
-Python module to search craigslist
-Requires feedparser
+Python module to search craigslist, requires feedparser.
 
 pip install feedparser
 
