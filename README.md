@@ -6,7 +6,7 @@ pip install feedparser
 
 ***Usage***
 
-Import CraigsList
+from CraigsList Import CraigsList
 
 searchObject = CraigsList(["Cincinnati", "Louisville", "Dayton"], "Volkswagen")
 
